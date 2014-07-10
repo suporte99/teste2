@@ -1,0 +1,7 @@
+
+
+Reparado
+=======
+NomeFernando (){
+	echo 'Fernando';	
+}
